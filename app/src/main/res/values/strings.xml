@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ASSIGNMENT V2</string>
+    <string name="textView">Enter Age:</string>
+    <string name="Button2">Generate History</string>
+    <string name="Button">Clear</string>
+    <string name="textHint">Enter an Age</string>
+    <string name="clear"> </string>
+</resources>

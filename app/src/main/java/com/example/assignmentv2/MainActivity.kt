@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
             button2?.setOnClickListener {
 
                 //Initialise message with a default value
-                var message: String = ""
+                val message: String
 
                 val text: Int = textInput.text.toString().toInt()
 
